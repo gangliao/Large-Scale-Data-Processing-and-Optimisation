@@ -2,7 +2,7 @@
 
 Space for using machine learning on optimisation in computer systems
 
-1. Jeffrey Dean, Greg Corrado, Rajat Monga, Kai Chen, Matthieu Devin, Quoc V. Le, Mark Z. Mao, Marc’Aurelio Ranzato, Andrew W. Senior, Paul A. Tucker, Ke Yang, and Andrew Y. Ng. Large scale distributed deep networks. NIPS, 2012.
+1. [Jeffrey Dean, Greg Corrado, Rajat Monga, Kai Chen, Matthieu Devin, Quoc V. Le, Mark Z. Mao, Marc’Aurelio Ranzato, Andrew W. Senior, Paul A. Tucker, Ke Yang, and Andrew Y. Ng. Large scale distributed deep networks. NIPS, 2012.](papers/dean_nips_2012.pdf)
 
 2. G. Venkates et al.: Accelerating Deep Convolutional Networks using low-precision and sparsity,  ICASSP, 2017.
 
