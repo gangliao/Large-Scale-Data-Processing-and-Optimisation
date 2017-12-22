@@ -4,7 +4,9 @@ Space for using machine learning on optimisation in computer systems
 
 1. [Jeffrey Dean, Greg Corrado, Rajat Monga, Kai Chen, Matthieu Devin, Quoc V. Le, Mark Z. Mao, Marc’Aurelio Ranzato, Andrew W. Senior, Paul A. Tucker, Ke Yang, and Andrew Y. Ng. Large scale distributed deep networks. NIPS, 2012.](papers/dean_nips_2012.pdf)
 
-2. [G. Venkates et al.: Accelerating Deep Convolutional Networks using low-precision and sparsity,  ICASSP, 2017.](papers/venkates_ICASSP_2017.pdf)
+2. [G. Venkates et al.: Accelerating Deep Convolutional Networks using low-precision and sparsity,  ICASSP, 2017.](papers/venkates_ICASSP_2017.pdf) 
+
+[[Review]](papers/venkates_ICASSP_2017.md) 
 
 3. V. Mnih et al.: Asynchronous Methods for Deep Reinforcement Learning, ICML, 2016.
 
@@ -40,6 +42,6 @@ Alex Gubbay (slides)
 
 13. N. Lane et al.: DeepX : A Software Accelerator for Low-Power Deep Learning Inference on Mobile Devices, IPSN, 2016.
 
-14. [K. Arulkumaran et al.: A Brief Survey of Deep Reinforcement Learning, IEEE Journal of Signal Processing, 2017.](papers/arulkumaran_IEEESP_2017.pdf) [Review](papers/arulkumaran_IEEESP_2017.md) 
+14. [K. Arulkumaran et al.: A Brief Survey of Deep Reinforcement Learning, IEEE Journal of Signal Processing, 2017.](papers/arulkumaran_IEEESP_2017.pdf)
 
 15. F. Hutter et al.: Algorithm runtime prediction: Methods&evaluation, Elsevier J. AI, 2014.
