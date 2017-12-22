@@ -9,8 +9,9 @@ On the other hand, computer systems often miss advances in algorithm design that
 
 ## Paper Reviewing
 
-[Session 6: Machine Learning for Optimisation of Computer Systems](session6/Readme.md)
-[Seesion 7: Task scheduling, Performance, and Resource Optimisation](session7/Readme.md)
+- [Session 6: Machine Learning for Optimisation of Computer Systems](session6/Readme.md)
+
+- [Seesion 7: Task scheduling, Performance, and Resource Optimisation](session7/Readme.md)
 
 ## Reference 
 
