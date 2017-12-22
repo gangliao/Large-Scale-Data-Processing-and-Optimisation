@@ -10,6 +10,7 @@
 
 ### Summary
 
+Deep reinforcement learning -> building autonomous systems with a higher level understanding of the visual world.
 
 ### Cool Ideas
 

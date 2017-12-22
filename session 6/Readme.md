@@ -42,5 +42,6 @@ Alex Gubbay (slides)
 13. N. Lane et al.: DeepX : A Software Accelerator for Low-Power Deep Learning Inference on Mobile Devices, IPSN, 2016.
 
 14. [K. Arulkumaran et al.: A Brief Survey of Deep Reinforcement Learning, IEEE Journal of Signal Processing, 2017.](papers/arulkumaran_IEEESP_2017.pdf)
+    -  [Review](papers/arulkumaran_IEEESP_2017.md)
 
 15. F. Hutter et al.: Algorithm runtime prediction: Methods&evaluation, Elsevier J. AI, 2014.
