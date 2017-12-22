@@ -7,6 +7,11 @@ Supporting the design and implementation of robust, secure, and heterogeneous la
 On the other hand, computer systems often miss advances in algorithm design that can be used to cut down processing time and scale up systems in terms of the size of the problem they can address. 
 
 
+## Paper Reviewing
+
+[Session 6: Machine Learning for Optimisation of Computer Systems](session6/Readme.md)
+[Seesion 7: Task scheduling, Performance, and Resource Optimisation](session7/Readme.md)
+
 ## Reference 
 
 Large-Scale Data Processing and Optimisation, http://www.cl.cam.ac.uk/~ey204/teaching/ACS/R244_2017_2018/
