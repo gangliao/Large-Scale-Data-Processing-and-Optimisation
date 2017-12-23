@@ -1,5 +1,8 @@
 ## A Brief Survey of Deep Reinforcement Learning
 
+[Introduction of
+Reinforcement Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/RL%20(v4).pdf)
+
 > Title: A Brief Survey of Deep Reinforcement Learning 
 
 > Conference/Journal: IEEE SP 
@@ -17,6 +20,9 @@ The rise of deep learning, relying on the `powerful function approximation` and 
 The most important property of deep learning is that deep neural networks can automatically find compact low-dimensional representations (features) of high-dimensional data (e.g., images, text and audio). 
 
 Deep learning algorithms within RL defining the field of “deep reinforcement learning” (DRL).
+
+
+How to play game is not the end goal of DRL. One of the driving forces behind DRL is the vision of creating systems that are capable of learning how to adapt in the real world. It seems likely that in the future, DRL will be an important component in constructing general AI systems. 
 
 1. Deep Q-network
 
