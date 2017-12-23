@@ -30,6 +30,9 @@ How to play game is not the end goal of DRL. One of the driving forces behind DR
 
 3. asynchronous advantage actor-critic
 
+
+**Unlike policy gradient methods, which attempt to learn functions which directly map an observation to an action, Q-Learning attempts to learn the value of being in a given state, and taking a specific action there.** from [medium](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
+
 ### Cool Ideas
 
 
