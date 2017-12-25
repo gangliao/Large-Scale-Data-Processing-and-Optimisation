@@ -10,7 +10,10 @@
 
 ### Summary
 
-Inspired by recent advances in deep reinforcement learning, the author build systems [DeepRM] that learn to manage resources directly from experience.
+Inspired by recent advances in deep reinforcement learning, the author build systems [DeepRM: a simple multi-resource cluster scheduler] that learn to manage resources directly from experience.
+
+Traditional solution for these problems are solved using meticulously designed heuristics. It's too specific and not a general purpose solution, which often must be
+repeated if some metric changes. i.e., the workload. RL does not require any prior knowledge of the system's behavior to learn these strategies, it can support a variety of objectives just by using different reinforcement rewards.
 
 ### Cool Ideas
 
