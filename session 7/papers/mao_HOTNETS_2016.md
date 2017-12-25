@@ -24,15 +24,19 @@ Assumption:
 1. The resource demand of each job is known upon arrival.
 2. No preemption and a fixed allocation profile.
 
-State Space:
+**State Space**:
 the current allocation of cluster resources and the resource profiles of jobs waiting to
 be scheduled as distinct images
 
-Action Space:
+**Action Space**:
 At each timestamp, the scheduler may want to admit any subset of the M jobs. The authors keep the action space small by allowing the agent to execute more than one 
 action in each timestamp.
 
 
+**Rewares**:
+
+Crafting the reward signal to guide the agent towards good solutions for our objective: `minimizing average
+slowdown`.
 
 ### Questions
 
