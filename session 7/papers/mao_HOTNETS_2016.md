@@ -40,6 +40,9 @@ slowdown`.
 
 ### Questions
 
+Very Cool Paper! The authors were trying to use deep reinforcement learning to manage 
+cluster resource. The novel contribution is that they formulate the problem and describe how to represent it as an RL task. That's amazing! It could be widely in other problems in system area. 
+
 Resource management problem are ubiquitous in computer systems and networks. There are many research directions such as job scheduling in clusters, bitrate adaptation in video streaming, relay selection in Internet telephony, virtual machine placement in cloud computing, congestion control can take the advantage of deep reinforcement learning to translate problem into a learning problem.
 
 > To minimize average completion time, we can use −|J| (negative the number of unfinished jobs in the system) for the reward at each timestep. 
