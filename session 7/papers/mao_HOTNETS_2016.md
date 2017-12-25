@@ -10,12 +10,28 @@
 
 ### Summary
 
-Inspired by recent advances in deep reinforcement learning, the author build systems [DeepRM: a simple multi-resource cluster scheduler] that learn to manage resources directly from experience.
+Inspired by recent advances in deep reinforcement learning, the author build systems [DeepRM: a simple multi-resource cluster scheduler] that learn to manage resources directly from experience. It employs a standard `policy gradient` reinforcement learning algorithm.
 
 Traditional solution for these problems are solved using meticulously designed heuristics. It's too specific and not a general purpose solution, which often must be
-repeated if some metric changes. i.e., the workload. RL does not require any prior knowledge of the system's behavior to learn these strategies, it can support a variety of objectives just by using different reinforcement rewards.
+repeated if some metric changes. i.e., the workload. RL does not require any prior knowledge of the system's behavior to learn these strategies, it can support a variety of objectives just by using `different reinforcement rewards`.
 
 ### Cool Ideas
+
+Mapping Resource Management in Cluster into a learning problem.
+
+Assumption:
+
+1. The resource demand of each job is known upon arrival.
+2. No preemption and a fixed allocation profile.
+
+State Space:
+the current allocation of cluster resources and the resource profiles of jobs waiting to
+be scheduled as distinct images
+
+Action Space:
+At each timestamp, the scheduler may want to admit any subset of the M jobs. The authors keep the action space small by allowing the agent to execute more than one 
+action in each timestamp.
+
 
 
 ### Questions
