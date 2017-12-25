@@ -54,7 +54,9 @@ Stefanos Laskaridis (slides)
 
 Yashovardhan Sharma (slides) 
 
-23. H. Mao et al.: Resource Management with Deep Reinforcement Learning, HotNets, 2016.
+23. [H. Mao et al.: Resource Management with Deep Reinforcement Learning, HotNets, 2016.](papers/mao_HOTNETS_2016.pdf)
+    - [[Review]](papers/mao_HOTNETS_2016.md)
+
 
 Thomas Brady (slides) 
 
