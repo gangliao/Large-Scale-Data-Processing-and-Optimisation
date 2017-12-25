@@ -42,3 +42,8 @@ slowdown`.
 
 Resource management problem are ubiquitous in computer systems and networks. There are many research directions such as job scheduling in clusters, bitrate adaptation in video streaming, relay selection in Internet telephony, virtual machine placement in cloud computing, congestion control can take the advantage of deep reinforcement learning to translate problem into a learning problem.
 
+> To minimize average completion time, we can use −|J| (negative the number of unfinished jobs in the system) for the reward at each timestep. 
+
+> To maximize resource utilization, we could reward the agent for the sum of the resource utilizations at each timestep.
+
+> The makespan for a set of jobs can also be minimized by penalizing the agent one unit for each timestep for which unfinished jobs exist.
