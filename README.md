@@ -16,3 +16,24 @@ On the other hand, computer systems often miss advances in algorithm design that
 ## Reference 
 
 Large-Scale Data Processing and Optimisation, http://www.cl.cam.ac.uk/~ey204/teaching/ACS/R244_2017_2018/
+
+
+## Lecture
+
+### Deep Learning
+
+1. Nando de Freitas, U of Oxford, Deep Learning, [[Video]](https://www.youtube.com/watch?v=PlhFWT7vAEw&index=16&list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
+[[Slides]](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
+
+
+2. Oxford and DeepMind,  Deep Natural Language Processing [[Video]](https://www.youtube.com/watch?v=RP3tZFcC2e8&list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm) [[Slides]](https://github.com/oxford-cs-deepnlp-2017/lectures)
+
+3. Advanced Topics in Deep Learning (Hung-yi Lee, NTU) [[Video]](https://www.youtube.com/watch?v=IzHoNwlCGnE&list=PLJV_el3uVTsPMxPbjeX7PicgWbY7F8wW9) [[Slides]](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS17.html)
+
+4. Machine Learning (Hung-yi Lee, NTU) [[Video]](https://www.youtube.com/watch?v=CXgbekl66jc&list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49) [[Slides]](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html)
+
+
+### Infrastructure
+
+1. VMware [Cloud Native Basics](https://www.youtube.com/playlist?list=PL7bmigfV0EqTCJP9O1xtnxwdjxo4CztA-&disable_polymer=true)
+
