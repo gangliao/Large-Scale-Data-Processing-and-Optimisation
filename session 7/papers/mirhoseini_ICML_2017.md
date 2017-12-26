@@ -2,7 +2,7 @@
 
 > Title: Device Placement Optimization with Reinforcement Learning 
 
-> Conference/Journal: ICML 
+> Conference/Journal: ICML
 
 > Year: 2017
 
@@ -15,7 +15,6 @@ Yuefeng Zhou, Naveen Kumar, Mohammad Norouzi, Samy Bengio, Jeff Dean
 
 
 ### Cool Ideas
-
 
 
 ### Questions
