@@ -13,7 +13,8 @@ Stella Lau (slides)
 
 Lukasz Dudziak (slides)
 
-4. I. Gog, M. Schwarzkopf, A. Gleave, R. Watson, S. Hand: Firmament: fast, centralized cluster scheduling at scale, OSDI, 2016.
+4. [I. Gog, M. Schwarzkopf, A. Gleave, R. Watson, S. Hand: Firmament: fast, centralized cluster scheduling at scale, OSDI, 2016.](papers/gog_osdi_2016.pdf)
+- [[Review]](papers/gog_osdi_2016.md)
 
 5. O. Alipourfard et al.: CherryPick: Adaptively Unearthing the Best Cloud Configurations for Big Data Analytics, NSDI, 2017.
 
