@@ -4,7 +4,8 @@ Optimisation examples in coputer systems (e.g. scheduling, resource allocation..
 
 Stella Lau (slides) 
 
-1. A. Mirhoseini et al.: Device Placement Optimization with Reinforcement Learning, ICML, 2017.
+1. [A. Mirhoseini et al.: Device Placement Optimization with Reinforcement Learning, ICML, 2017.](papers/mirhoseini_ICML_2017.pdf)
+- [[Review]](papers/mirhoseini_ICML_2017.md)
 
 2. F. Yang et al.: LFTF: A Framework for Efficient Tensor Analytics at Scale, VLDB, 2017.
 
