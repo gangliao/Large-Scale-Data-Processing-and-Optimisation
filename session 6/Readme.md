@@ -25,7 +25,8 @@ Thomas Park (slides)
 
 8. V. Mnih et al.: Playing Atari with Deep Reinforcement Learning, NIPS, 2013.
 
-9. J. Snoek, H. Larochelle, and R. Adams: Practical Bayesian Optimization of Machine Learning Algorithms, NIPS, 2012.
+9. [J. Snoek, H. Larochelle, and R. Adams: Practical Bayesian Optimization of Machine Learning Algorithms, NIPS, 2012.](papers/snoek_nips_2012.pdf)
+- [[Review]](papers/snoek_nips_2012.md)
 
 10. B. Teabe et al.: Application-specific quantum for multi-core platform scheduler, EuroSys, 2016.
 
